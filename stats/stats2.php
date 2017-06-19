@@ -1,5 +1,7 @@
 <?
 
+// Сбор статистики
+
 $hl['en'] = array(
 
 "title"=>"YC's StartUpSchool 2017 Localization project",
@@ -12,7 +14,7 @@ $hl['en'] = array(
 "options"=>"Options",
 "toTheList"=>"To the list",
 "showVideos"=>"show Videos",
-"createDBCache"=>"Create DB cache",
+"createDBCache"=>"Update cache",
 "generateListFor"=>"Generate list for ",
 
 );
